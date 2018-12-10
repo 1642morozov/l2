@@ -1,0 +1,3 @@
+Hello! How are you? I am fine! Do you like fruits? I like them!
+So lets try multiple lines! How my program will handle this?
+And this? I think it will be fine!
